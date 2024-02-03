@@ -6,8 +6,15 @@ void main() {
   print(result);
 }
 
-// function with argument with return value.
 int addFunction(int a, int b) {
   int sum = a + b;
   return sum;
 }
+
+// function with argument with return value.
+
+// --------------------------------
+
+// print functionte purathayirikkum
+
+// --------------------------------
